@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "eitem:blocks/smile_block"
+    }
+}
