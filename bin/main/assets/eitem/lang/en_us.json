@@ -1,0 +1,12 @@
+{
+    "itemGroup.eitem": "Elliot's Items",
+
+    "item.eitem.smile": "Smiley Face",
+    "block.eitem.smile_block": "Smiley Block",
+    "item.eitem.smile_sword": "Smiley Sword",
+    "item.eitem.smiler": "Smiler",
+    "item.eitem.smile_picker": "Smile Picker",
+    "item.eitem.lightning_item": "Lightning Item",
+    "block.eitem.teleporter": "Teleporter"
+
+}

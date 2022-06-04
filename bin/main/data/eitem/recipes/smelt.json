@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "eitem:smile_block"
+    },
+    "result": "eitem:smile",
+    "experience": 1.0,
+    "cookingtime": 40
+}
